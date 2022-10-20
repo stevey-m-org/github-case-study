@@ -11,7 +11,8 @@ Can you please help us create a solution that will accomplish this for our secur
 
 
 The Challenge</br>
-
+The technical solution to accomplish this is to listen for organization events to know when a repository has been created. When the repository is created, please automate the protection of the default (main) branch.</br>
+Notify yourself with an @mention in an issue within the repository that outlines the protections that were added.</br>
 
 
 Assumptions</br>
